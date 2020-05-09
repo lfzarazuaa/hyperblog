@@ -19,3 +19,5 @@ Francisco Zarazua Aguilar.
 Daniel Zarazua Aguilar.
 (Tercer Colaborador).
 Cambio realizado en Vscode
+
+spartanzarazua contribuyó al proyecto con acentos(ejemplo: &iacute para ì acentuada).
