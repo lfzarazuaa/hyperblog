@@ -22,8 +22,9 @@ Cambio realizado en Vscode
 
 spartanzarazua contribuyó al proyecto con acentos(ejemplo: &iacute para ì acentuada).
 
-Cambio en 1 en Master.
+Cambio 1 en Experimento.
 
+Cambio en 1 en Master.
 Cambio 2 en Master.
 
 Cambio 3 en Master.
