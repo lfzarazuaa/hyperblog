@@ -24,8 +24,9 @@ spartanzarazua contribuyó al proyecto con acentos(ejemplo: &iacute para ì acen
 
 Cambio 1 en Experimento.
 
-Cambio en 1 en Master.
-Cambio 2 en Master.
+Cambio 2 en Experimento.
+
+Cambio en 1 en Master.Cambio 2 en Master.
 
 Cambio 3 en Master.
 
