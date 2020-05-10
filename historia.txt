@@ -8,6 +8,8 @@ Modificación para mostrar merge (colaborador 1).
 
 Modificación para mostrar merge (colaborador 2).
 
+Modificación para mostrar rebase (colaborador 1).
+
 Primer cambio (incompleto 1).
 
 Segundo cambio (incompleto 2).
