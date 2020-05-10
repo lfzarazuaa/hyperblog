@@ -47,3 +47,8 @@ Cambio 3 en Master.
 Cambio 4 en Master.
 
 Modificación en archivo historia.
+
+Cambio 1.
+Cambio 2.
+Cambio 3.
+Cambio 4.
