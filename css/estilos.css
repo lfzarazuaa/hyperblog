@@ -45,6 +45,16 @@ body{
     padding: 1em;
 }
 
+#post figure{
+    text-align: center;
+    margin: 1em auto;
+}
+
+#post img{
+    width: 60%;
+    margin: 0;
+}
+
 #footer{
     background: #777;
     color: white;
