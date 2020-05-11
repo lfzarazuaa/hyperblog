@@ -9,3 +9,5 @@ Este curso lleva una metodología desde cero hasta convertirte en todo un máste
 * El verdadero amor por las buenas prácticas.
 * Trucos muy locos del profesor.
 * Creado en el increíble curso de Git y Github.
+* Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
