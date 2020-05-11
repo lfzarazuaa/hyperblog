@@ -1,5 +1,7 @@
 # hyperblog
-Un <strong> blog increible </strong> para el curso de Git y Github de Platzi
+Un <strong> blog increíble </strong> para el curso de Git y Github de Platzi.
+
+Este curso lleva una metodología desde cero hasta convertirte en todo un máster en Git y Github.
 
 ## En este curso veremos de todo
 * Muchos comandos de Git.
